@@ -6,6 +6,6 @@ public class PrimeraClase {
 	    System.out.print ("Hola, mundo");
 		System.out.println();
 	
-	
+	}
 		
 }
