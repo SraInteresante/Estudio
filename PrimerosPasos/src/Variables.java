@@ -107,6 +107,10 @@ public class Variables {
 		h = 64;
 		char i = '@';
 		
+		/*
+		 * carácteres ascii (se pronuncia aski) a simbolos le asiganan un valor
+		 * por ejemplo nº 64= @
+		 */
 		
 		System.out.println("h == i " + (h==i));
 		
