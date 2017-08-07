@@ -101,11 +101,14 @@ public class Variables {
 		
 		System.out.println("Entonces es= "+ (g));
 	
+		System.out.println("\n............\n");
+		
 		char h;
 		h = 64;
+		char i = '@';
 		
 		
-		System.out.println(h);
+		System.out.println("h == i " + (h==i));
 		
 		
 	}
